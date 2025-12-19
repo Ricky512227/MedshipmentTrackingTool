@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific - ignore Excel data files but keep structure
+*.xlsx
+*.xls
+!data/.gitkeep
+!output/.gitkeep
+!output/Items/.gitkeep
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.local

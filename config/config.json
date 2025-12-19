@@ -1,0 +1,8 @@
+{
+  "input_file": "data/Input-Data.xlsx",
+  "output_dir": "output",
+  "final_data_file": "output/Final-Data.xlsx",
+  "items_dir": "output/Items",
+  "ips_tracking_url": "http://ipsweb.ptcmysore.gov.in/ipswebtracking/IPSWeb_item_events.aspx",
+  "zip_code_url": "https://www.zip-codes.com/zip-code"
+}
